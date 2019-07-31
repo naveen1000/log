@@ -3,3 +3,5 @@ positive num
 h7981942629
 programming mcqs foer tcs
 <
+tcs nqt hallticktcs nextKey.down
+tcs Key.downKey.down
