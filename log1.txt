@@ -5,4 +5,4 @@ programming mcqs foer tcs
 <
 tcs nqt hallticktcs nextKey.down
 tcs Key.downKey.down
-xKey.alt_lKey.alt_lKey.f4Key.f4Key.f4Key.f4Key.alt_lKey.f4
+xKey.alt_lKey.alt_lKey.f4Key.f4Key.f4Key.f4Key.alt_lKey.f4Key.alt_lKey.alt_lKey.f4
