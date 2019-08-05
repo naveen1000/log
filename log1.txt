@@ -2629,3 +2629,4 @@ infinity Key.down
 
 
 Key.alt_lKey.alt_lKey.alt_lKey.alt_lKey.alt_lKey.alt_lKey.alt_lKey.alt_lKey.alt_lKey.alt_lKey.alt_lKey.alt_lKey.alt_lKey.f4Key.alt_lKey.f4Key.alt_lKey.f4Key.alt_lKey.f4Key.alt_lKey.f4
+Key.caps_lockKey.alt_lKey.f4Key.alt_l Key.alt_lKey.f4Key.alt_lKey.f4Key.alt_lKey.f4
