@@ -7,3 +7,4 @@ Key.num_lock222Key.num_lock<12><12><12>
  Key.alt_lKey.f4
 Key.escKey.alt_lKey.f4
 eamcet
+transvaals<<<<<<<<<<<<<<<<dpinal<<<<<<<<<<<<<<<<
