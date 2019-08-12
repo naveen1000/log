@@ -39,4 +39,4 @@ aa
 qu\\<<a ela rasav
 ohhh
 ohh
-a<      
+a<        Key.esc
