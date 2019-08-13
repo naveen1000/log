@@ -46,4 +46,6 @@ ohh vana<<<<avna <<<<<
 yyy<<<<haa udKey.caps_lockKey.caps_lockayanne bus ekkesta
 int ime lo vacheyovhu
 okok
-aKey.delete
+aKey.deletepunarna
+
+ 
