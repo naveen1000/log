@@ -48,4 +48,4 @@ int ime lo vacheyovhu
 okok
 aKey.deletepunarna
 
- 
+ aaKey.deletea<
