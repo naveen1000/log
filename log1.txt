@@ -61,4 +61,4 @@ cv
 24kkkca<v
 rest <<etv< mail 
           gmaharshi 
-aKey.delete
+aKey.delete Key.alt_lKey.f4
