@@ -121,4 +121,6 @@ forced when x<stuck
 
 Key.alt_lKey.f4    
 shafi
-     
+     Key.page_upKey.page_upKey.page_uphotstar
+half bro<idge 
+Key.alt_lKey.f4
