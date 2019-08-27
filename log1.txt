@@ -266,3 +266,4 @@ aKey.deleteKey.delete      u<muk<ltiple pers in
 aKey.deleteKey.alt_lKey.f4Key.alt_lKey.f4Key.alt_lKey.f4Key.alt_lKey.f44Key.alt_lKey.f4Key.alt_lKey.f4Key.alt_lKey.f4Key.alt_lKey.f4
 cvKey.caps_lockanits Key.caps_lockKey.caps_lockmKey.caps_lockailswayam
 cv
+229.18  Key.alt_r            
