@@ -106,4 +106,4 @@ aKey.deletehp laptop skin
 cv
 Key.alt_lKey.alt_lKey.alt_lKey.alt_lKey.alt_lKey.alt_lKey.alt_lKey.f4Key.alt_lKey.f4Key.alt_lKey.alt_lKey.alt_lKey.f4Key.alt_lKey.alt_l4Key.f4<student
 Key.page_downKey.page_downKey.page_down            so
-   
+               Key.alt_lKey.alt_lKey.f4Key.alt_lKey.alt_lKey.alt_lKey.alt_lKey.alt_lKey.f4Key.alt_lKey.f4
