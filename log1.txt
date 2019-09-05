@@ -131,3 +131,9 @@ acccv
 <<<<<<<<<<<<<<
 v and inverte
 
+anits
+cv
+76.18cv
+<<<<<<<<<<<<<<<<<<<<<dpf in elec
+cv output power
+0.10Key.alt_lKey.f4
