@@ -281,3 +281,4 @@ Key.ctrl_r     Key.alt_lismarry<<t shaf<aKey.delete
 < Key.alt_lKey.alt_lKey.alt_lKey.f4
 
 
+Key.shiftKey.caps_lockqKey.alt_lKey.alt_lKey.alt_lKey.alt_lKey.alt_lKey.f4Key.caps_lock
