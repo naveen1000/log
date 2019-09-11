@@ -365,4 +365,4 @@ s of<< the <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 add
 Key.alt_lKey.f4Key.alt_lKey.alt_lKey.f4add
    add audio 
-  Key.page_downKey.page_downKey.page_down           
+  Key.page_downKey.page_downKey.page_down                 
