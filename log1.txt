@@ -473,3 +473,4 @@ andham hindolam
 <<<<<<<<<<<<<<andham hi<<<<<<<<<<<<<<<<<<sai hd<<dhar  raas<<<<<<<<<<<<<<<<<<<<<<<<supreme
 Key.alt_lKey.f4
 
+Key.ctrl_rKey.ctrl_rKey.ctrl_rKey.ctrl_rKey.ctrl_rKey.ctrl_rh    
