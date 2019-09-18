@@ -544,3 +544,7 @@ v Key.escKey.escKey.alt_lKey.f4Key.f4mixtures qua
 
 
      Key.alt_lKey.f4Key.alt_lKey.f4Key.alt_lKey.f4Key.f4Key.f4Key.f4
+  x \\<<nxx
+xxm<nxx
+<
+  Key.alt_lKey.f4
